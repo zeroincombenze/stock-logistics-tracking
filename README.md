@@ -10,6 +10,7 @@
 
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 ================================================================================================
+================================================================================================
 
 Odoo Stock Logistic Tracking
 
@@ -27,7 +28,9 @@ Please don't hesitate to suggest one of your module to this project. Also, you m
 
 [//]: # (addons)
 
+
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [stock_barcode_reader](stock_barcode_reader/) | 1.0 (unported) | Stock bar code reader
