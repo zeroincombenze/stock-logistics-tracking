@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -33,29 +33,29 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[stock_packaging_usability](stock_packaging_usability/) | 8.0.1.0.0 |  N/D  | Faster packaging process in Odoo
-[stock_packaging_usability_ul](stock_packaging_usability_ul/) | 8.0.1.0.0 |  N/D  | Faster packaging process with logistical units
+[stock_packaging_usability](stock_packaging_usability/) | 8.0.1.0.0 | :repeat: | Faster packaging process in Odoo
+[stock_packaging_usability_ul](stock_packaging_usability_ul/) | 8.0.1.0.0 | :repeat: | Faster packaging process with logistical units
 
 
 Unported addons
 ---------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[stock_barcode_reader](stock_barcode_reader/) | 1.0 (unported) |  N/D  | Stock bar code reader
-[stock_inventory_sequence](stock_inventory_sequence/) | 1.0 (unported) |  N/D  | Stock Inventory Sequence
-[stock_move_packaging](stock_move_packaging/) | 1.0 (unported) |  N/D  | Move Stock Packaging
-[stock_move_split_default](stock_move_split_default/) | 1.0 (unported) |  N/D  | Stock Tracking Split
-[stock_product_category_tracked](stock_product_category_tracked/) | 1.0 (unported) |  N/D  | Stock Product Category Tracked
-[stock_tracking_add_move](stock_tracking_add_move/) | 1.0 (unported) |  N/D  | Stock tracking add moves
-[stock_tracking_add_remove](stock_tracking_add_remove/) | 1.0 (unported) |  N/D  | Stock tracking add or remove object
-[stock_tracking_add_remove_pack](stock_tracking_add_remove_pack/) | 1.0 (unported) |  N/D  | Stock tracking add packs
-[stock_tracking_child](stock_tracking_child/) | 1.0 (unported) |  N/D  | Stock Tracking Child
-[stock_tracking_extended](stock_tracking_extended/) | 1.1 (unported) |  N/D  | Stock Tracking extended
-[stock_tracking_prodlot](stock_tracking_prodlot/) | 1.0 (unported) |  N/D  | Stock Tracking Prodlot
-[stock_tracking_reopen](stock_tracking_reopen/) | 1.0 (unported) |  N/D  | Stock tracking Re-open
-[stock_tracking_state](stock_tracking_state/) | 1.0 (unported) |  N/D  | Stock Tracking State
-[stock_tracking_swap](stock_tracking_swap/) | 1.0 (unported) |  N/D  | Stock tracking swap
-[stock_tracking_swap_pack](stock_tracking_swap_pack/) | 1.0 (unported) |  N/D  | Stock tracking swap
+[stock_barcode_reader](stock_barcode_reader/) | 1.0 (unported) | :repeat: | Stock bar code reader
+[stock_inventory_sequence](stock_inventory_sequence/) | 1.0 (unported) | :repeat: | Stock Inventory Sequence
+[stock_move_packaging](stock_move_packaging/) | 1.0 (unported) | :repeat: | Move Stock Packaging
+[stock_move_split_default](stock_move_split_default/) | 1.0 (unported) | :repeat: | Stock Tracking Split
+[stock_product_category_tracked](stock_product_category_tracked/) | 1.0 (unported) | :repeat: | Stock Product Category Tracked
+[stock_tracking_add_move](stock_tracking_add_move/) | 1.0 (unported) | :repeat: | Stock tracking add moves
+[stock_tracking_add_remove](stock_tracking_add_remove/) | 1.0 (unported) | :repeat: | Stock tracking add or remove object
+[stock_tracking_add_remove_pack](stock_tracking_add_remove_pack/) | 1.0 (unported) | :repeat: | Stock tracking add packs
+[stock_tracking_child](stock_tracking_child/) | 1.0 (unported) | :repeat: | Stock Tracking Child
+[stock_tracking_extended](stock_tracking_extended/) | 1.1 (unported) | :repeat: | Stock Tracking extended
+[stock_tracking_prodlot](stock_tracking_prodlot/) | 1.0 (unported) | :repeat: | Stock Tracking Prodlot
+[stock_tracking_reopen](stock_tracking_reopen/) | 1.0 (unported) | :repeat: | Stock tracking Re-open
+[stock_tracking_state](stock_tracking_state/) | 1.0 (unported) | :repeat: | Stock Tracking State
+[stock_tracking_swap](stock_tracking_swap/) | 1.0 (unported) | :repeat: | Stock tracking swap
+[stock_tracking_swap_pack](stock_tracking_swap_pack/) | 1.0 (unported) | :repeat: | Stock tracking swap
 
 [//]: # (end addons)
 
