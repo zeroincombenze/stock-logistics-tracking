@@ -19,13 +19,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -55,8 +59,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -75,7 +81,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -86,11 +94,14 @@ Credits
 
 
 
+
 * Alexis de Lattre <alexis.delattre@akretion.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 
