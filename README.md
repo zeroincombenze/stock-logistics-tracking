@@ -13,6 +13,7 @@
 ================================================================================================
 
 Odoo Stock Logistic Tracking
+============================
 
 This project aims to deal with modules related to the management of product tracking. You'll find modules that:
 
