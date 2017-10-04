@@ -36,6 +36,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 This module modifies the behavior of the buttons *Put in new pack*
