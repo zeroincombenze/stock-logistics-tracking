@@ -1,1 +1,1 @@
-stock-logistics-barcode
+# See https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst#oca_dependencies-txt
